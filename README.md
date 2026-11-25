@@ -1,14 +1,14 @@
 # Hi, I'm Johnson Haoran Ji 👋
 
-I'm a graduate student in robotics. I love the mathematics behind robotic systems and the questions that emerge where robotics meets other fields. I also enjoy psychology and literature, especially classical Russian literature of the 18th and 19th centuries and continental European literature more broadly.
+I'm a graduate student in robotics. I love the mathematics behind robotic systems and the questions that emerge where robotics meets other fields. I also enjoy psychology and literature, especially classical Russian literature of the 19th century.
 
 [Academic website](https://albert-ludwig.github.io/) · [Research](https://albert-ludwig.github.io/research/) · [Projects](https://albert-ludwig.github.io/projects/) · [CV](https://github.com/Albert-Ludwig/Albert-Ludwig/blob/main/Johnson%20Ji%20CV.md)
 
 ## Research interests
 
 - **Mathematics for robotics**
-- **Robot control**, especially model predictive control (MPC) and learning-based control
-- **Optimization**, especially convex optimization
+- **Robot control**, model predictive control (MPC) and learning-based control
+- **Optimization**, convex optimization
 - **Robot design**
 
 ## Tools I use
