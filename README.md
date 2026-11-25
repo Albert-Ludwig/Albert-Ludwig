@@ -2,7 +2,7 @@
 
 I'm a Mechatronics Engineering undergraduate at **McMaster University**. I study robotics and autonomous systems, with a focus on how robots learn, plan, and act under uncertainty.
 
-[Academic website](https://albert-ludwig.github.io/) · [Research](https://albert-ludwig.github.io/research/) · [Projects](https://albert-ludwig.github.io/projects/) · [CV](https://albert-ludwig.github.io/cv/)
+[Academic website](https://albert-ludwig.github.io/) · [Research](https://albert-ludwig.github.io/research/) · [Projects](https://albert-ludwig.github.io/projects/) · [CV](https://github.com/Albert-Ludwig/Albert-Ludwig/blob/main/Johnson%20Ji%20CV.md)
 
 ## Research interests
 
