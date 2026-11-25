@@ -33,8 +33,6 @@ I'm a graduate student in robotics. I love the mathematics behind robotic system
   </picture>
 </p>
 
-<sub>The language chart excludes the Academic Pages website template.</sub>
-
 ## Publications
 
 [**SoGuDiff: Socially Guided Diffusion for Steerable, Norm-Grounded Robot Navigation**](https://albert-ludwig.github.io/publications/sogudiff/)  
