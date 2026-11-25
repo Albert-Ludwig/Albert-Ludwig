@@ -6,10 +6,9 @@ I'm a Mechatronics Engineering undergraduate at **McMaster University**. I study
 
 ## Research interests
 
-- Optimal control and robot learning
-- Motion planning and navigation
-- Probabilistic robotics
-- Autonomous robotic systems
+- Optimization
+- Optimal & Predictive Control, Learning Based Control
+- Mobile Robot Navigation
 
 ## Selected experience
 
