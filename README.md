@@ -15,8 +15,8 @@ I'm a graduate student in robotics. I love the mathematics behind robotic system
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ros,py,cpp,pytorch,docker,linux,git&amp;theme=dark">
-    <img src="https://skillicons.dev/icons?i=ros,py,cpp,pytorch,docker,linux,git&amp;theme=light" alt="ROS 2, Python, C++, PyTorch, Docker, Linux, and Git" width="440">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ros%2Cpy%2Ccpp%2Cpytorch%2Cdocker%2Clinux%2Cgit&amp;theme=dark">
+    <img src="https://skillicons.dev/icons?i=ros%2Cpy%2Ccpp%2Cpytorch%2Cdocker%2Clinux%2Cgit&amp;theme=light" alt="ROS 2, Python, C++, PyTorch, Docker, Linux, and Git" width="440">
   </picture>
 </p>
 
