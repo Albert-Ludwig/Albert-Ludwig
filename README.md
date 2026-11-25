@@ -1,6 +1,6 @@
 # Hi, I'm Johnson Haoran Ji 👋
 
-I'm a graduate student in robotics. I love the mathematics behind robotic systems and the questions that emerge where robotics meets other fields. I also enjoy psychology and literature, especially classical Russian literature of the 19th century.
+I'm an undergraduate student researcher in robotics. I love the mathematics behind robotic systems and the questions that emerge where robotics meets other fields. I also enjoy psychology and literature, especially classical Russian literature of the 19th century.
 
 [Academic website](https://albert-ludwig.github.io/) · [Research](https://albert-ludwig.github.io/research/) · [Projects](https://albert-ludwig.github.io/projects/) · [CV](https://github.com/Albert-Ludwig/Albert-Ludwig/blob/main/Johnson%20Ji%20CV.md)
 
