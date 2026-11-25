@@ -35,5 +35,5 @@ I'm an undergraduate student researcher in robotics. I love the mathematics behi
 
 ## Publications
 
-[**SoGuDiff: Socially Guided Diffusion for Steerable, Norm-Grounded Robot Navigation**](https://albert-ludwig.github.io/publications/sogudiff/)  
+[**SoGuDiff: Socially Guided Diffusion for Steerable, Norm-Grounded Robot Navigation**](https://arxiv.org/abs/2609.30560)  
 Under review at *IEEE Robotics and Automation Letters*.
