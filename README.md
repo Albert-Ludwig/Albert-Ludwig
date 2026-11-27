@@ -12,7 +12,7 @@ I'm an undergraduate student researcher in robotics. I love the mathematics behi
 - **Robot design**
 
 ## My study notes:
-https://github.com/Albert-Ludwig/Study_Notes.git
+[Johnson Ji study notes](https://github.com/Albert-Ludwig/Study_Notes.git)
 
 ## Tools I use
 
